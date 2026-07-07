@@ -1,0 +1,12 @@
+[package]
+name = "fily"
+description = "Code context engine for coding agents and humans — call-graph-aware code search and retrieval. Placeholder release; full release in progress."
+keywords = ["code-search", "mcp", "ai", "index", "typescript"]
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+homepage.workspace = true
+authors.workspace = true
+
+[dependencies]

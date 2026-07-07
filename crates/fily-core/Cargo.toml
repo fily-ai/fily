@@ -1,0 +1,12 @@
+[package]
+name = "fily-core"
+description = "Core indexing and query engine for fily, the code context engine. Placeholder release; full release in progress."
+keywords = ["code-search", "index", "callgraph", "sparql", "typescript"]
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+homepage.workspace = true
+authors.workspace = true
+
+[dependencies]
