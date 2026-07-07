@@ -1,0 +1,26 @@
+{
+  "name": "fily",
+  "version": "0.0.1",
+  "description": "Code context engine for coding agents and humans — call-graph-aware code search and retrieval. Placeholder release; full release in progress.",
+  "license": "FSL-1.1-ALv2",
+  "homepage": "https://filyai.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fily-ai/fily.git",
+    "directory": "npm/fily"
+  },
+  "bin": {
+    "fily": "bin/fily.js"
+  },
+  "files": [
+    "bin",
+    "LICENSE.md"
+  ],
+  "keywords": [
+    "code-search",
+    "mcp",
+    "ai",
+    "typescript",
+    "index"
+  ]
+}
