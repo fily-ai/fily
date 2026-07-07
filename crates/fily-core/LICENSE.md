@@ -6,7 +6,7 @@ FSL-1.1-ALv2
 
 ## Notice
 
-Copyright 2026 <FILY LLC LEGAL NAME — replace before publishing>
+Copyright 2026 Stark AI LLC
 
 ## Terms and Conditions
 
